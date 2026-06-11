@@ -53,19 +53,21 @@ This board is a medium-complexity IoT development platform built around the ESP3
 
 ## Schematic
 
-![Schematic](images/schematic.png)
-
+![Root](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/schematic/ESP32%20-%20esp32.png)
+![ESP32](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/schematic/ESP32%20-%20esp32.png)
+![Sensors](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/schematic/ESP32%20-%20sensors%20.png)
+![Connectors](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/schematic/esp32%20-%20connectors.png)
 ---
 
 ## PCB Layout
 
-![Layout](images/layout.png)
+![Layout](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/layout/ESP32%20Layout.png)
 
 ---
 
 ## 3D View
 
-![3D View](images/3d.png)
+![3D View](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/3D/ESP32.png)
 
 ---
 
