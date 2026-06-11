@@ -2,13 +2,12 @@
 
 A 4-layer IoT PCB designed in KiCad 9 as part of the **Advanced PCB Design with KiCad 9** course by Dr. Peter Dalmaris.
 
----
 
 ## Overview
 
 This board is a medium-complexity IoT development platform built around the ESP32-C3 microcontroller. It includes power management, wireless connectivity, storage, and environmental sensing. All on a compact 4-layer PCB.
 
----
+
 
 ## Features
 
@@ -27,7 +26,7 @@ This board is a medium-complexity IoT development platform built around the ESP3
 - GPIO and I2C breakout header
 - Test points for SPI signals
 
----
+
 
 ## Layer Stackup
 
@@ -38,7 +37,7 @@ This board is a medium-complexity IoT development platform built around the ESP3
  Inner 2 - L3 - 3.3V power plane 
  Bottom copper - L4 -  Additional signal routing 
 
----
+
 
 ## Communication Interfaces
 
@@ -49,7 +48,7 @@ This board is a medium-complexity IoT development platform built around the ESP3
  UART - CP2102N (via USB) 
  ADC - Light sensor, microphone 
 
----
+
 
 ## Schematic
 
@@ -63,13 +62,13 @@ This board is a medium-complexity IoT development platform built around the ESP3
 
 ![Layout](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/layout/ESP32%20Layout.png)
 
----
+
 
 ## 3D View
 
 ![3D View](https://github.com/KirtiChickamath/ESP32-IoT-sensor-board/blob/main/3D/ESP32.png)
 
----
+
 
 ## Tools Used
 
